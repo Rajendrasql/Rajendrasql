@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajendrasql
+- 👋 Hi, I’m @Rajenda
 - 👀 I’m interested in learning sql
 - 🌱 I’m currently learning basics of sql from freecodecamp youtube channel
 
